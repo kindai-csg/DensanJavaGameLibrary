@@ -1,0 +1,2 @@
+# DensanJavaGameLibrary
+電算研のjava製ゲームライブラリ
