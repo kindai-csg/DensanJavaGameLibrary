@@ -1,3 +1,5 @@
+# wiki
+https://www65.atwiki.jp/kindaidensan/
 # DensanJavaGameLibrary
 電算研のjava製ゲームライブラリです
 
